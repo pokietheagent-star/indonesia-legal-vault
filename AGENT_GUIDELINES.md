@@ -29,6 +29,15 @@ Use a branching decision tree rather than a rigid four-step loop.
 - If the matter requires operational reality checks, move to implementation.
 - If there is a plausible breach, sanction, harm, or exposure theory, move to liability.
 - If no new legal signal appears at a layer, do not repeat the same search cycle.
+- Branching may skip a layer only when that layer is factually irrelevant or legally unavailable.
+- If a layer is delivered, it must be developed deeply; do not compress it just because earlier layers were resolved quickly.
+
+## Hybrid operating model
+This vault now follows a Fast Research, Deep Report model.
+- Research should be fast, parallel, and source-narrowed.
+- The final report should remain deep, structured, and layered.
+- Speed gains must come from better branching and earlier narrowing, not from thinning the analysis.
+- The report template in AGENT.md is mandatory for substantive outputs.
 
 ## Required role packets
 Each role must hand off structured data instead of long narrative prose.
