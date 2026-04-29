@@ -3,7 +3,7 @@
 This vault is intended for an Indonesia legal agent.
 
 ## Core sourcing rule
-For any statute or regulation lookup, use pasal-id MCP exclusively before providing legal analysis. Do not finalize legal analysis without raw source output from pasal-id.
+For any statute or regulation lookup, use pasal-id MCP first and treat it as the primary legal source. Exa is the secondary/backup research source and should only be used if pasal-id returns no results or if external context (news, public reports, institutional updates) is required to complete the analysis. Do not finalize legal analysis without raw source output from pasal-id.
 
 ## Role guidance
 - Use Hakim for synthesis and final legal framing.
@@ -34,5 +34,5 @@ At minimum, a case study should capture:
 ## Output discipline
 - Prefer structured, reusable reference files over one-off summaries.
 - Be explicit about unknowns, assumptions, and missing sources.
-- If pasal-id returns no result, report a null finding and do not guess.
+- If pasal-id returns no result, report a null finding and do not guess; then pivot to Exa only if the research needs external context or the primary search remains insufficient.
 - Keep the workflow source-grounded, strategic, and reusable.
