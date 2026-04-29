@@ -5,6 +5,8 @@ This vault is intended for an Indonesia legal agent.
 ## Core sourcing rule
 For any statute or regulation lookup, use pasal-id MCP first and treat it as the primary legal source. Exa is the secondary/backup research source and should only be used if pasal-id returns no results or if external context (news, public reports, institutional updates) is required to complete the analysis. Do not finalize legal analysis without raw source output from pasal-id.
 
+Any Exa research operation must follow the configuration and parameter standards defined in context/exa-api-guide.md in the main vault, and must treat https://docs.exa.ai/reference/search-api-guide-for-coding-agents as the primary source of truth for Exa API behavior.
+
 ## Role guidance
 - Use Hakim for synthesis and final legal framing.
 - Use Researcher for primary-source retrieval.
