@@ -32,9 +32,11 @@ At minimum, a case study should capture:
 - procedural and deadline risks
 - strategic risks and leverage
 - open questions and recommended next steps
+- Exa Credit Usage Report: a mandatory end section that records the Exa key used, the actual request count or best-effort estimate, the queries or sources checked, and the fallback rationale whenever Exa is used
 
 ## Output discipline
 - Prefer structured, reusable reference files over one-off summaries.
 - Be explicit about unknowns, assumptions, and missing sources.
 - If pasal-id returns no result, report a null finding and do not guess; then pivot to Exa only if the research needs external context or the primary search remains insufficient.
+- End every case study analysis with a section titled Exa Credit Usage Report, even if the report states that no Exa calls were made and only an estimate is available.
 - Keep the workflow source-grounded, strategic, and reusable.
