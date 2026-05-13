@@ -3,6 +3,9 @@
 ## ringkasan singkat
 Kasus ini berpusat pada penjemputan paksa dari rumah sakit, penahanan selama 14 hari, pembatasan komunikasi total, dugaan penganiayaan fisik, penelantaran makan, dan pengambilan barang pribadi dengan alasan "safekeeping". Inti masalah hukumnya adalah paradoks prosedural: Muhammad Rifqi Julianto diwajibkan dijemput oleh keluarga/kerabat, tetapi pada saat yang sama dilarang berkomunikasi dengan dunia luar.
 
+## konteks fasilitas spesifik
+Fasilitas yang kini menjadi fokus analisis adalah Panti Sosial Bina Insan Bangun Daya 2 Ceger, Jakarta Timur. Untuk level fasilitas ini, materi yang dirujuk menempatkan PERGUB Nomor 361 Tahun 2016 sebagai kerangka operasional teknis, khususnya Pasal 4 ayat (2), Pasal 8 ayat (4), dan Pasal 9 ayat (5), yang menuntut adanya SOP teknis pelayanan sosial, asesmen, family consultation, advocacy, resosialisasi, referral, serta follow-up guidance.
+
 ## kronologi kejadian
 1. Muhammad Rifqi Julianto berada di rumah sakit untuk meminta obat secara mandiri.
 2. Tanpa proses medis yang sah dan tanpa asesmen yang dapat diverifikasi, pihak Dinas Sosial melakukan penjemputan paksa.
@@ -17,6 +20,29 @@ Prosedur yang diklaim pihak terkait mengandung kontradiksi yang fatal:
 - tetapi Muhammad Rifqi Julianto dilarang memberi kabar atau berkomunikasi dengan siapa pun di luar.
 
 Secara praktis, syarat penjemputan menjadi mustahil dipenuhi bila Muhammad Rifqi Julianto tidak dapat mengabari keberadaannya, kondisinya, atau lokasi penahanannya. Paradoks ini memperlihatkan bahwa aturan tersebut bukan mekanisme perlindungan yang netral, melainkan alat untuk mempertahankan penahanan tanpa batas waktu yang jelas. Secara substansi, ini mendekati perampasan kemerdekaan de facto.
+
+## temuan fasilitas dan laporan publik
+### 1. laporan publik 2016
+Materi publik yang beredar pada 2016 tentang fasilitas ini menggambarkan pola masalah operasional yang konsisten dengan risiko kekerasan dan kontrol yang buruk, termasuk:
+- dugaan bullying/assault antar penghuni,
+- ketiadaan CCTV atau pengawasan video yang memadai,
+- understaffing atau kekurangan petugas,
+- dan laporan kematian setelah group assault.
+
+Bila laporan-laporan ini dibaca berdampingan, pola yang muncul bukan insiden tunggal, melainkan kegagalan pengawasan dan kegagalan perlindungan penghuni.
+
+### 2. temuan Komnas HAM 2024
+Pada 2024, Komnas HAM dilaporkan menemukan sekitar 550 penghuni, dengan kurang lebih 442 orang yang secara efektif kehilangan hak pilih karena persoalan dokumentasi administrasi. Temuan ini penting karena menunjukkan bahwa masalah fasilitas tidak hanya menyangkut keselamatan fisik, tetapi juga hak sipil dasar, terutama hak atas identitas, administrasi kependudukan, dan partisipasi politik.
+
+## tabel pelanggaran teknis
+| Norma | Kewajiban/standar | Dugaan conduct | Relevansi fakta |
+|---|---|---|---|
+| PERGUB 361/2016 Pasal 4 ayat (2) | SOP teknis pelayanan sosial, asesmen, dan alur penanganan yang tertib | Penjemputan dan penahanan tanpa alur yang transparan | Menunjukkan deviasi dari tata kelola fasilitas |
+| PERGUB 361/2016 Pasal 8 ayat (4) | family consultation, advocacy, dan keterhubungan dengan keluarga | Larangan komunikasi total | Memutus mekanisme konsultasi keluarga yang diwajibkan |
+| PERGUB 361/2016 Pasal 9 ayat (5) | resosialisasi, referral, dan follow-up guidance | Isolasi yang berujung penahanan tanpa tindak lanjut jelas | Menunjukkan layanan yang berubah menjadi penahanan de facto |
+| UU 18/2014 Pasal 21, 70, 86 | perlakuan manusiawi, prosedur yang sah, larangan kekerasan/penelantaran | Dugaan kekerasan, malnutrisi, dan pembatasan komunikasi | Menguatkan pelanggaran hak dasar |
+| UU 17/2023 | standar pelayanan kesehatan dan prinsip penghormatan martabat | Penanganan yang tidak proporsional dan tidak akuntabel | Membuka isu layanan dan akuntabilitas administratif |
+| KUHP Pasal 442 | larangan perampasan kemerdekaan | Isolasi 14 hari dengan komunikasi diputus | Relevan untuk penahanan tanpa dasar yang sah |
 
 ## isu hukum utama
 ### 1. pelanggaran UU 18/2014 tentang Kesehatan Jiwa
@@ -43,6 +69,7 @@ Secara praktis, syarat penjemputan menjadi mustahil dipenuhi bila Muhammad Rifqi
 - siapa yang membatasi komunikasi dan sejak kapan.
 - daftar lengkap barang pribadi yang diambil.
 - bukti kondisi fisik dan konsumsi makanan selama masa penahanan.
+- dokumen SOP teknis, asesmen, family consultation, referral, dan follow-up guidance di Panti Sosial Bina Insan Bangun Daya 2 Ceger.
 
 ## kesimpulan kerja
-Berdasarkan kronologi yang ada, kasus ini tidak hanya soal salah prosedur, tetapi soal struktur penahanan yang kontradiktif: Muhammad Rifqi Julianto dibawa keluar dengan dalih perlindungan, lalu dikunci dengan larangan komunikasi yang justru membuat syarat pelepasan menjadi mustahil dipenuhi. Dari sisi analisis awal, ini menguatkan dugaan adanya penahanan tidak sah, pengabaian hak dasar, dan perlakuan yang tidak manusiawi.
+Berdasarkan kronologi yang ada, kasus ini tidak hanya soal salah prosedur, tetapi soal struktur penahanan yang kontradiktif: Muhammad Rifqi Julianto dibawa keluar dengan dalih perlindungan, lalu dikunci dengan larangan komunikasi yang justru membuat syarat pelepasan menjadi mustahil dipenuhi. Jika digabung dengan materi fasilitas dan temuan publik 2016 serta Komnas HAM 2024, pola masalahnya tampak lebih luas: kontrol yang lemah, perlindungan penghuni yang tidak memadai, dan tata kelola yang gagal menjamin hak dasar.
