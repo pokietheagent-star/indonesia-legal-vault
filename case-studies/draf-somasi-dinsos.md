@@ -40,7 +40,7 @@ III. TABEL PELANGGARAN TEKNIS
 | PERGUB 361/2016 Pasal 9 ayat (5) | resosialisasi, referral, follow-up guidance | Isolasi yang berubah menjadi penahanan de facto |
 | UU 18/2014 Pasal 21, 70, 86 | perlakuan manusiawi, prosedur sah, larangan kekerasan/penelantaran | Dugaan kekerasan fisik, malnutrisi, dan pembatasan komunikasi |
 | UU 17/2023 | standar penghormatan martabat dan akuntabilitas layanan | Penanganan yang tidak proporsional dan tidak transparan |
-| KUHP Pasal 442 | larangan perampasan kemerdekaan | Isolasi 14 hari tanpa dasar yang dapat dipertanggungjawabkan |
+| KUHP Pasal 333 | larangan perampasan kemerdekaan | Isolasi 14 hari tanpa dasar yang dapat dipertanggungjawabkan |
 
 IV. DUGAAN KEKERASAN FISIK DAN MALNUTRISI
 
