@@ -40,7 +40,7 @@ III. TABEL PELANGGARAN TEKNIS
 | PERGUB 361/2016 Pasal 9 ayat (5) | resosialisasi, referral, follow-up guidance | Isolasi yang berubah menjadi penahanan de facto |
 | UU 18/2014 Pasal 21, 70, 86 | perlakuan manusiawi, prosedur sah, larangan kekerasan/penelantaran | Dugaan kekerasan fisik, malnutrisi, dan pembatasan komunikasi |
 | UU 17/2023 | standar penghormatan martabat dan akuntabilitas layanan | Penanganan yang tidak proporsional dan tidak transparan |
-| KUHP Pasal 333 | larangan perampasan kemerdekaan | Isolasi 14 hari tanpa dasar yang dapat dipertanggungjawabkan |
+| UU 1/2023 Pasal 446 ayat (1) | Setiap Orang yang secara melawan hukum merampas kemerdekaan orang atau meneruskan perampasan tersebut, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun. | Isolasi 14 hari tanpa dasar yang dapat dipertanggungjawabkan |
 
 IV. DUGAAN KEKERASAN FISIK DAN MALNUTRISI
 
@@ -56,7 +56,7 @@ Dasar hukum atas somasi ini antara lain adalah:
 - Peraturan Gubernur Nomor 361 Tahun 2016, khususnya Pasal 4 ayat (2), Pasal 8 ayat (4), dan Pasal 9 ayat (5);
 - Undang-Undang Nomor 18 Tahun 2014 tentang Kesehatan Jiwa, khususnya Pasal 21, Pasal 70, dan Pasal 86;
 - Undang-Undang Nomor 17 Tahun 2023;
-- Kitab Undang-Undang Hukum Pidana, khususnya Pasal 442 mengenai perampasan kemerdekaan.
+- Kitab Undang-Undang Hukum Pidana, khususnya Pasal 446 ayat (1) mengenai perampasan kemerdekaan dan Pasal 471 ayat (1) mengenai penganiayaan ringan.
 
 Selain itu, tindakan yang diduga dilakukan juga patut diuji terhadap prinsip-prinsip umum pelayanan publik, perlindungan hak asasi manusia, dan larangan penahanan tanpa dasar hukum yang sah.
 

@@ -42,7 +42,8 @@ Pada 2024, Komnas HAM dilaporkan menemukan sekitar 550 penghuni, dengan kurang l
 | PERGUB 361/2016 Pasal 9 ayat (5) | resosialisasi, referral, dan follow-up guidance | Isolasi yang berujung penahanan tanpa tindak lanjut jelas | Menunjukkan layanan yang berubah menjadi penahanan de facto |
 | UU 18/2014 Pasal 21, 70, 86 | perlakuan manusiawi, prosedur yang sah, larangan kekerasan/penelantaran | Dugaan kekerasan, malnutrisi, dan pembatasan komunikasi | Menguatkan pelanggaran hak dasar |
 | UU 17/2023 | standar pelayanan kesehatan dan prinsip penghormatan martabat | Penanganan yang tidak proporsional dan tidak akuntabel | Membuka isu layanan dan akuntabilitas administratif |
-| KUHP Pasal 442 | larangan perampasan kemerdekaan | Isolasi 14 hari dengan komunikasi diputus | Relevan untuk penahanan tanpa dasar yang sah |
+| UU 1/2023 Pasal 471 ayat (1) | Selain penganiayaan sebagaimana dimaksud dalam Pasal 467 dan Pasal 470, penganiayaan yang tidak menimbulkan penyakit atau halangan untuk menjalankan profesi jabatan atau mata pencaharian, dipidana karena penganiayaan ringan, dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II. | Dugaan penganiayaan fisik dan penelantaran nutrisi | Menguatkan pelanggaran hak dasar |
+| UU 1/2023 Pasal 446 ayat (1) | Setiap Orang yang secara melawan hukum merampas kemerdekaan orang atau meneruskan perampasan tersebut, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun. | Isolasi 14 hari dengan komunikasi diputus | Relevan untuk penahanan tanpa dasar yang sah |
 
 ## isu hukum utama
 ### 1. pelanggaran UU 18/2014 tentang Kesehatan Jiwa
@@ -54,11 +55,15 @@ Pada 2024, Komnas HAM dilaporkan menemukan sekitar 550 penghuni, dengan kurang l
 - tindakan yang tidak transparan, tidak proporsional, dan bertentangan satu sama lain menunjukkan maladministrasi.
 - syarat "wajib jemput" yang disertai larangan komunikasi bertentangan dengan asas kepastian hukum, kecermatan, dan akuntabilitas.
 
-### 3. KUHP dan perampasan kemerdekaan
-- Pasal 442 KUHP relevan untuk menilai unsur perampasan kemerdekaan atau penahanan tanpa dasar yang sah.
+### 3. UU 1/2023 dan perampasan kemerdekaan
+- Pasal 446 ayat (1) UU 1/2023 relevan untuk menilai unsur perampasan kemerdekaan atau penahanan tanpa dasar yang sah.
 - Pembatasan fisik dan isolasi total selama 14 hari, bila tidak didasarkan pada prosedur hukum dan medis yang tepat, dapat dianalisis sebagai perampasan kemerdekaan.
 
-### 4. pengambilan barang pribadi
+### 4. penganiayaan
+- Pasal 471 ayat (1) UU 1/2023 relevan untuk menilai dugaan penganiayaan ringan dan pembatasan yang menyertainya.
+- Dugaan penganiayaan fisik dan penelantaran nutrisi, bila terbukti, sejalan dengan unsur penganiayaan ringan.
+
+### 5. pengambilan barang pribadi
 - Barang pribadi yang diambil dengan alasan "safekeeping" perlu dipastikan dasar hukumnya, daftar inventarisnya, dan pihak yang bertanggung jawab.
 - Jika tidak ada berita acara atau persetujuan yang sah, tindakan ini berpotensi menjadi perbuatan melawan hukum dan pelanggaran hak milik.
 
