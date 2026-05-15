@@ -13,6 +13,7 @@ Fasilitas yang kini menjadi fokus analisis adalah Panti Sosial Bina Insan Bangun
 4. Selama masa itu, komunikasi dengan keluarga dan pihak luar diputus.
 5. Barang pribadi Muhammad Rifqi Julianto diambil dan ditahan dengan alasan "safekeeping".
 6. Dalam masa penahanan, Muhammad Rifqi Julianto mengalami dugaan penganiayaan fisik dan penelantaran nutrisi.
+7. Hasil pemeriksaan klinis mencatat diagnosis Mild protein-energy malnutrition (E44.1) sebagai temuan medis, yang memperkuat dugaan penelantaran dan menunjukkan pelanggaran Pasal 8 Pergub 361/2016 karena kewajiban pemeliharaan fisik dan kesehatan tidak terpenuhi.
 
 ## paradoks "wajib jemput vs dilarang komunikasi"
 Prosedur yang diklaim pihak terkait mengandung kontradiksi yang fatal:

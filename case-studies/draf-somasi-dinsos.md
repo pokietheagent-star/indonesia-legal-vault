@@ -44,7 +44,7 @@ III. TABEL PELANGGARAN TEKNIS
 
 IV. DUGAAN KEKERASAN FISIK DAN MALNUTRISI
 
-Berdasarkan fakta-fakta yang dilaporkan, terdapat dugaan serius bahwa selama masa penahanan tersebut Muhammad Rifqi Julianto mengalami kekerasan fisik dan kondisi malnutrisi yang tidak sesuai dengan standar penanganan yang layak. Kami menegaskan bahwa dugaan-dugaan ini disampaikan berdasarkan fakta yang dilaporkan dan akan ditindaklanjuti secara hukum apabila terbukti benar. Tindakan demikian, apabila terbukti, merupakan pelanggaran berat terhadap hak asasi manusia dan ketentuan hukum yang berlaku di Republik Indonesia.
+Berdasarkan fakta-fakta yang dilaporkan, terdapat dugaan serius bahwa selama masa penahanan tersebut Muhammad Rifqi Julianto mengalami kekerasan fisik dan kondisi malnutrisi yang tidak sesuai dengan standar penanganan yang layak. Temuan klinis Mild protein-energy malnutrition (E44.1) menjadi bukti medis yang menguatkan adanya penelantaran dan malnutrisi. Kami menegaskan bahwa dugaan-dugaan ini disampaikan berdasarkan fakta yang dilaporkan dan akan ditindaklanjuti secara hukum apabila terbukti benar. Tindakan demikian, apabila terbukti, merupakan pelanggaran berat terhadap hak asasi manusia dan ketentuan hukum yang berlaku di Republik Indonesia.
 
 V. TUNTUTAN PENGEMBALIAN BARANG PRIBADI
 
